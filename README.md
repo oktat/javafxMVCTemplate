@@ -1,6 +1,9 @@
 ## JavaFX indulás MVC-ben
 
 Javítani kell a szövegszerkesztő beállításait.
+Windowson ehhez hasonlóan kell beállítani:
+C:/Users/janos/Library/javafx-sdk-16/lib
+Az útvonalat javítsuk a javafx útvonalára.
 
 Visual Studio Code kódszerkesztőben JavaFX projekt
 indítása MVC-t használva.
