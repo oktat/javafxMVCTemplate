@@ -3,13 +3,13 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "/home/andras/Library/javafx-sdk-16/lib/javafx.base.jar",
-        "/home/andras/Library/javafx-sdk-16/lib/javafx.controls.jar",
-        "/home/andras/Library/javafx-sdk-16/lib/javafx.fxml.jar",
-        "/home/andras/Library/javafx-sdk-16/lib/javafx.graphics.jar",
-        "/home/andras/Library/javafx-sdk-16/lib/javafx.media.jar",
-        "/home/andras/Library/javafx-sdk-16/lib/javafx.swing.jar",
-        "/home/andras/Library/javafx-sdk-16/lib/javafx.web.jar",
-        "/home/andras/Library/javafx-sdk-16/lib/javafx-swt.jar"
+        "/home/janos/Library/javafx-sdk-16/lib/javafx.base.jar",
+        "/home/janos/Library/javafx-sdk-16/lib/javafx.controls.jar",
+        "/home/janos/Library/javafx-sdk-16/lib/javafx.fxml.jar",
+        "/home/janos/Library/javafx-sdk-16/lib/javafx.graphics.jar",
+        "/home/janos/Library/javafx-sdk-16/lib/javafx.media.jar",
+        "/home/janos/Library/javafx-sdk-16/lib/javafx.swing.jar",
+        "/home/janos/Library/javafx-sdk-16/lib/javafx.web.jar",
+        "/home/janos/Library/javafx-sdk-16/lib/javafx-swt.jar"
     ]
 }
