@@ -1,5 +1,7 @@
 ## JavaFX indulás MVC-ben
 
+Javítani kell a szövegszerkesztő beállításait.
+
 Visual Studio Code kódszerkesztőben JavaFX projekt
 indítása MVC-t használva.
 
