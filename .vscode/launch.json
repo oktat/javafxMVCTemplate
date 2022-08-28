@@ -8,14 +8,14 @@
             "type": "java",
             "name": "Launch Current File",
             "request": "launch",
-            "vmArgs": "--module-path /home/andras/Library/javafx-sdk-16/lib --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path /home/janos/Library/javafx-sdk-16/lib --add-modules javafx.controls,javafx.fxml",
             "mainClass": "${file}"
         },
         {
             "type": "java",
             "name": "Launch App",
             "request": "launch",
-            "vmArgs": "--module-path /home/andras/Library/javafx-sdk-16/lib --add-modules javafx.controls,javafx.fxml",
+            "vmArgs": "--module-path /home/janos/Library/javafx-sdk-16/lib --add-modules javafx.controls,javafx.fxml",
             "mainClass": "App",
             "projectName": "app01_cac237eb"
         }
